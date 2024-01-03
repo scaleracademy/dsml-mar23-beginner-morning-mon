@@ -1,0 +1,1 @@
+!ONLY OVERWRITES OVERLAPPING BITS!even if content smaller!a+ will add content at the end of the file.

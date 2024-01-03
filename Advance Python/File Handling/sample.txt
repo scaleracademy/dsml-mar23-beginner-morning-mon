@@ -1,0 +1,1 @@
+This is a random text that is being written to the file using the write function and this seems pretty cool!
